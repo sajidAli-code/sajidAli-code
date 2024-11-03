@@ -1,3 +1,4 @@
+![logo](https://github.com/sajidAli-code/sajidAli-code/blob/main/Black%20%26%20White%20Modern%20Personal%20Branding%20Youtube%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Muhammad Sajid</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
